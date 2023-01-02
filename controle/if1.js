@@ -8,3 +8,5 @@ function soBoaNoticia(nota){
 
 soBoaNoticia(8.1)
 soBoaNoticia(6.1)
+
+//primeiro commit do ano :)
