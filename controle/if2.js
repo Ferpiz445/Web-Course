@@ -10,7 +10,7 @@ function teste1(num){
 //pegadinha
 
 function teste2(num){
-    if(num > 7);{
+    if(num > 7);{ // prestar atenção no ';'
         console.log(num)
     }
 }
